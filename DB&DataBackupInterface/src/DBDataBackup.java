@@ -158,7 +158,7 @@ public class DBDataBackup {
 		sDestino = "Destino:";
 		sOk = "Ejecutar Backup";
 		sNameDb = "NameDB:";
-		programVersion = "  v 0.8.3 | Hadri  ";
+		programVersion = "  v 0.9 | Hadri  ";
 	}
 
 	/**
